@@ -1,0 +1,28 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li span {
+    font-weight: bold;
+}
+
+
+.container {
+    border: 1px solid grey;
+    width: 280px;
+    height: 300px;
+    padding: 10px;
+}
+
+.outer {
+    border: 1px solid grey;
+    padding: 15px;
+    height: 100%;
+    width: 300px;
+}
+
+img {
+    margin-bottom: 15px;
+}
